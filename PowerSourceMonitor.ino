@@ -37,7 +37,6 @@ void setup() {
   digitalWrite(LED_R, LOW);
   pinMode(PW_KEEP_ALIVE, OUTPUT);
   digitalWrite(PW_KEEP_ALIVE, HIGH);
-  // pinMode(BUZZER, OUTPUT);
   analogWrite(BUZZER, BUZZER_OFF);
   
   pinMode(V_SRC_IN, INPUT);
