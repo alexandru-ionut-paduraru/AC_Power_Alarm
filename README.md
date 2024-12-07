@@ -20,6 +20,16 @@ When the input power goes out, the UPS module interrupts its output for a fracti
 
 ## Schematic
 
+The schematic containing the elements mentioned before can be found in this section. Also, the PDF file is available within repository.
+
+![Device Schematic](Assets/Schematic.jpg "Device Schematic")
+
+>**NOTE!**
+>
+>The values used for resistors are informative. They are not necessary the ones I used in the final version. Check the data sheets of your devices and choose the proper values.
+
+
+
 ## Code 
 
 The coding part is very simple and efficient.
